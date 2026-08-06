@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+psycopg2-binary
+sqlalchemy
+yagmail
+python-dotenv
+scikit-learn
+joblib
+pdfplumber
+PyPDF2
+schedule
+requests
